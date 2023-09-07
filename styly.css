@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+img {
+    max-width: 100%;
+    border-radius: 16px;
+}
+a {
+    padding: 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    background: lightblue;
+    color: navy;
+    margin: 12px 0;
+    display: inline-block;
+}
+h1 {
+    color: navy;
+}
+.win a {
+    background: green;
+    color: white;
+}
+
+.win h1 {
+    color: green;
+}
+
+.fail a {
+    background: darkred;
+    color: white;
+}
+
+.fail h1 {
+    color: darkred;
+}
