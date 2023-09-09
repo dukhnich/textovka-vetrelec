@@ -1,4 +1,4 @@
-#Pravidla textové hry
+# Pravidla textové hry
 ## Plyn hry
 Na každem kroku máte část příběhu. Mužete se zvolit cestu pomoci tlačitek.
 ## Konec
